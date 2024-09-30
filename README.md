@@ -16,7 +16,7 @@ Desarrollo de Máquina de Galton - 3000 Cánicas
 * La segunda, la encargada de gráficar los resultados
 * El resultado es el que se muestra a continuación
 
-![alt text](grafica.jpg)
+![alt text](galton.jpg)
 
 ### Autor
 * Ing. Edgar Azael Hernández Bedolla
